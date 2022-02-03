@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vatsal Unadkat
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning PHP (Laravel) and Node.JS
+- 👋 Hi, I’m Vatsal Unadkat!
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently learning PHP (Laravel), Node.JS and DevOps (AWS).
 - 📫 You can reach me at vatsal.unadkat@mindstix.com

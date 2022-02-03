@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vatsal Unadkat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Laravel
-- 📫 How to reach me vatsal.unadkat@mindstix.com
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning PHP (Laravel) and Node.JS
+- 📫 You can reach me at vatsal.unadkat@mindstix.com
